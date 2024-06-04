@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/brumbrum.jpg"
+logo = "/media/brumbrum.jpg"
+image = "/media/hawaii.jpg"
 color = "#5a4ae3"
 +++
