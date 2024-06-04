@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Pascal Künzi"
-image = "/img/default-author.jpg"
+image = "/media/brumbrum.jpg"
 url = "/about/"
 +++
