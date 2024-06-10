@@ -51,7 +51,7 @@ Hätte meine Firma nicht funktioniert, hätte ich mich wahrscheinlich wieder irg
 
 > "Nach der Arbeit am Freitag beglich ich stets alle Rechnungen, selbst wenn es bedeutete, dass am Wochenende das Geld knapp wurde. Doch für mich zählte vor allem, dass alle Rechnungen bezahlt waren."
 >
-> \-Pascal Künzi
+> \-Patric Eicher
 
 **Würden Sie heute etwas anders machen?**
 
