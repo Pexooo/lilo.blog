@@ -4,6 +4,7 @@ date = "2024-06-10"
 draft = false
 pinned = false
 tags = ["fortnite", "nostalgie"]
+image = "39943037982_cfc6bfd3c2_b.jpg"
 +++
 Die Insel ist groß, das Schlachtfeld so weit, 
 
