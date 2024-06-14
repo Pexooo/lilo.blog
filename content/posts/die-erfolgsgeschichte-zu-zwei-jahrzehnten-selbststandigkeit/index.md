@@ -4,7 +4,7 @@ date = "2024-06-14"
 draft = false
 pinned = true
 tags = ["Selbständigkeit", "Autogarage"]
-image = "thumbnail_img_2651.jpg"
+image = "blog-pic.jpg"
 footnotes = "Pascal Künzi ist ein 17-jähriger Schüler des Campus Muristalden und befindet sich momentan im zweiten Gymnasiumjahr. Er ist fasziniert von Autos und möchte einmal sein eigenes Unternehmen gründen."
 +++
 {{<lead>}}
